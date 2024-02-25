@@ -1,0 +1,8 @@
+pepe:piratas:pepe@iesxulianmagarinos.org:26/10/1993:add
+adrian:pescadores:adrian@iesxulianmagarinos.org:1/10/1993:delete
+samuel:vaganos:samuel@iesxulianmagarinos.org:21/09/1995:add
+alba:piratas:alba@iesxulianmagarinos.org:12/06/1495:delete
+javier:vaganos:javier@iesxulianmagarinos.org:01/07/1789:delete
+sandra:piratas:sandra@iesxulianmagarinos.org:12/04/1999:delete
+maria:vaganos:maria@iesxulianmagarinos.org:07/06/1997:add
+xeila:pescadores:xeila@iesxulianmagarinos.org:12/03/2023:add
